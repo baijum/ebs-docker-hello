@@ -50,8 +50,8 @@ $: curl localhost:8080
 ```
 
 ## Run on AWS
-This is quite involved.  A blog post and a video tutorial is coming up.
-
+This is quite involved, so I made a 
+[video run-through available on YouTube](https://www.youtube.com/watch?v=1zrtJWh0bRg)
 
 ## Notes
 
